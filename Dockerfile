@@ -1,4 +1,4 @@
-FROM rest4hub/golang-glide-gitsemver
+FROM rest4hub/golang-glide:gitsemver
 
 RUN wget https://oss.oracle.com/el4/unzip/unzip.tar && \
     tar xvf unzip.tar
