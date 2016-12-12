@@ -1,3 +1,6 @@
+# Deprecated(https://github.com/rest4hub/golang-glide/tree/gitsemver-awscli)
+
+
 # golang-glide-stepup
 ### Golang
 go env
